@@ -1,0 +1,54 @@
+.button {
+  display: inline-block;
+  padding: 20px 32px;
+  @include text-style(2rem, 700, $white-color);
+  background: $main-color;
+  box-shadow: 0 1px 12px rgba(241, 241, 241, 0.25);
+  position: relative;
+  z-index: 3;
+  transition: all .3s;
+
+  &:hover {
+    background: #AB83A9;
+  }
+
+  &:active {
+    background: #956492;
+  }
+}
+
+.button-wpp {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 205px;
+  height: 44px;
+  border: 1.5px solid $accent-color;
+  transition: all .3s;
+
+  svg {
+    fill: #E5CFB2;
+    margin-right: 12px;
+  }
+
+  p {
+    @include text-style(1.6rem, 700, $accent-color);
+  }
+
+  &:hover {
+    background: rgba(229, 207, 178, 0.3);
+  }
+
+  &:active {
+    background-color: $accent-color;
+    border: 1.5px solid $accent-color;
+
+    svg {
+      fill: $white-color;
+    }
+
+    p {
+      color: $white-color;
+    }
+  }
+}
