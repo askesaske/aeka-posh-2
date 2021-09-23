@@ -22,7 +22,7 @@
               Стоимость: <span>5000 тенге</span>
             </p>
 
-            <div class="welcome-section__btn" v-scroll-to="{el:'#register', duration: 1500,}">
+            <div class="welcome-section__btn" v-scroll-to="{el:'#speakers', duration: 1500,}">
               <button class="button">
                 Узнать подробнее
               </button>
@@ -61,7 +61,7 @@
       </div>
     </section>
 
-    <section class="main__section speaker-section">
+    <section class="main__section speaker-section" id="speakers">
       <div class="speaker-section__container">
         <h2 class="speaker-section__title">
           Наши спикеры
@@ -375,7 +375,7 @@
                   Inst:
                 </div>
                 <a href="https://www.instagram.com/aida_psychologist_kz/" target="_blank" class="card__text card__text--flex">
-                  <span>@zarina.shegenova</span>
+                  <span>@aida_psychologist_kz</span>
                   <svg width="24" height="24">
                     <use href="../assets/img/icons.svg#share"></use>
                   </svg>
