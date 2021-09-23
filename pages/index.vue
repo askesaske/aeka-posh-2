@@ -35,7 +35,7 @@
             </div>
           </div>
 
-          <img src="../assets/img/welcome-section-img.png" alt="" class="welcome-section__img">
+          <img src="../assets/img/welcome-img.png" alt="" class="welcome-section__img">
         </div>
 
       </div>
@@ -404,7 +404,7 @@
               Зарегистрироваться
             </a>
           </div>
-          <img src="../assets/img/phone.png" alt="" class="register-section__img">
+          <img src="../assets/img/phone-1.png" alt="" class="register-section__img">
         </div>
 
       </div>

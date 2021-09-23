@@ -14,6 +14,7 @@
 
   &__title {
     @include text-style(4rem, 400, $white-color);
+    font-family: $secondary-font;
     line-height: 53px;
     margin-bottom: 24px;
   }
@@ -22,6 +23,10 @@
     @include text-style(2.4rem, 400, $main-color);
     line-height: 27px;
     margin-bottom: 40px;
+  }
+
+  &__img {
+    width: 368px;
   }
 
   @include respond(phone) {
