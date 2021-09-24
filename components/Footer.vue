@@ -1,7 +1,7 @@
 <template>
   <footer class="footer">
     <div class="footer__container">
-      <a href="https://wa.me/77765023636" target="_blank" class="button-wpp footer__wpp-btn">
+      <a href="https://api.whatsapp.com/message/QGQGYLGDBLRVC1" target="_blank" class="button-wpp footer__wpp-btn">
         <svg width="20" height="20">
           <use href="../assets/img/icons.svg#wpp"></use>
         </svg>

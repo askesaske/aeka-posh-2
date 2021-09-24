@@ -4,7 +4,7 @@
     <section class="main__section welcome-section">
       <div class="welcome-section__container">
 
-        <a href="https://wa.me/77765023636" target="_blank" class="button-wpp welcome-section__wpp-btn">
+        <a href="https://api.whatsapp.com/message/QGQGYLGDBLRVC1" target="_blank" class="button-wpp welcome-section__wpp-btn">
           <svg width="20" height="20">
             <use href="../assets/img/icons.svg#wpp"></use>
           </svg>
@@ -400,7 +400,7 @@
             <div class="register-section__subtitle">
               Напиши нам и наши менеджеры все расскажут
             </div>
-            <a href="https://wa.me/77765023636" target="_blank" class="register-section__btn button">
+            <a href="https://api.whatsapp.com/message/QGQGYLGDBLRVC1" target="_blank" class="register-section__btn button">
               Зарегистрироваться
             </a>
           </div>
