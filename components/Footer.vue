@@ -9,8 +9,8 @@
       </a>
 
       <div class="footer__links">
-        <a href="/offer/sample.pdf" target="_blank" class="footer__link">Договор публичной оферты</a>
-        <a href="/privacy/sample.pdf" target="_blank" class="footer__link">Политика конфиденциальности</a>
+        <a href="https://infostar.kz/offer/" target="_blank" class="footer__link">Договор публичной оферты</a>
+        <a href="https://infostar.kz/confidential/" target="_blank" class="footer__link">Политика конфиденциальности</a>
       </div>
     </div>
   </footer>
