@@ -27,7 +27,7 @@
                 Узнать подробнее
               </button>
               <svg width="12" height="105" class="welcome-section__arrow welcome-section__arrow--desktop">
-                <use href="../assets/img/icons.svg#btn-arrow"></use>
+                <use href="../assets/img/icons.svg#arrow-sm"></use>
               </svg>
               <svg width="12" height="58" class="welcome-section__arrow welcome-section__arrow--phone">
                 <use href="../assets/img/icons.svg#arrow-sm"></use>
@@ -44,19 +44,15 @@
     <section class="main__section about-section">
       <div class="about-section__container">
         <p>
-          Я, <span>Айым Алтынбекова</span>, приглашаю Вас на мой интенсив, рассчитаный на тех женщин, которые хотят жить
-          полноценной
-          жизнью, для тех, кто хочет проявлять себя во всех жизненных аспектах. Финансовую грамоту, психологию,
-          воспитание детей, женские практики, и многое другое вам будут преподавать спикеры знающие своё направление на
-          отлично. За <span>10 дней</span> вы получите не просто полноценные знания, но и научитесь применять их в своей
-          жизни,
-          <span>меняя свою реальность.</span> Приглашаю начать новую жизнь, где вы всегда счастливы, любимы, имеете
-          достаточно денег
-          и
-          самое главное находитесь в гармонии с самой собой.
+          Я, <span>Айым Алтынбекова</span>, приглашаю Вас на мой интенсив, рассчитаный на тех женщин, 
+          которые хотят жить полноценной жизнью, для тех, кто хочет проявлять себя во всех жизненных аспектах. 
+          Родовые задачи, психологию, предназначение, отношения, питание, женские практики, и многое другое вам 
+          будут преподавать спикеры знающие своё направление на отлично. За <span>10 дней</span> вы получите не просто 
+          полноценные знания, но и научитесь применять их в своей жизни,  <span>меняя свою реальность.</span> 
+          Приглашаю начать новую жизнь, где вы всегда счастливы, любимы, имеете достаточно денег и самое 
+          главное находитесь в гармонии с самой собой. 
           <br>
-          Вы почувствуете приток новых сил, приобретёте внутреннее равновесие, и баланс. Создайте свою новую счастливую
-          реальность вместе с нами.
+          Вы почувствуете приток новых сил, приобретёте внутреннее равновесие, и баланс. Создайте свою счастливую реальность вместе с нами.
         </p>
       </div>
     </section>
@@ -74,11 +70,11 @@
 
             <div class="card__info">
               <div class="card__title">
-                Динара Сатжан
+                Динара Рафаель 
               </div>
 
               <div class="card__subtitle">
-                Журналист, предприниматель, ведущая, фэшн-продюсер, дизайнер
+                Международный нумеролог обучившийся в Оксфорде
               </div>
 
               <div class="card__section">
@@ -86,7 +82,7 @@
                   Тема:
                 </div>
                 <div class="card__text">
-                  Саморазвитие женщин. Для чего это нужно?
+                  Как прокачать себя с помощью чисел : финансы, карьера, отношение.
                 </div>
               </div>
 
@@ -94,8 +90,8 @@
                 <div class="card__bold">
                   Inst:
                 </div>
-                <a href="https://www.instagram.com/dinarasatzhan/" target="_blank" class="card__text card__text--flex">
-                  <span>@dinarasatzhan</span>
+                <a href="https://www.instagram.com/dinara.raphael/" target="_blank" class="card__text card__text--flex">
+                  <span>@dinara.raphael</span>
                   <svg width="24" height="24">
                     <use href="../assets/img/icons.svg#share"></use>
                   </svg>
@@ -109,12 +105,11 @@
 
             <div class="card__info">
               <div class="card__title">
-                Акгул Абдали
+                Галиева Динара Бауыржановна
               </div>
 
               <div class="card__subtitle">
-                Психолог – психотерапевт, магистр психологии, семейный психолог. <br>
-                Является членом Американской Психологической Ассоциации (APA)
+                Врач-педиатр, нутрициолог, натуропрактик, сертифицированный health коуч по интегративному питанию, магистр медицины, PhD
               </div>
 
               <div class="card__section">
@@ -123,10 +118,7 @@
                 </div>
                 <div class="card__themes">
                   <div class="card__text">
-                    Психология денег
-                  </div>
-                  <div class="card__text">
-                    Семья и воспитание детей
+                    Энергия и Питание. Как избавиться от хронической усталости с помощью питания
                   </div>
                 </div>
               </div>
@@ -135,8 +127,8 @@
                 <div class="card__bold">
                   Inst:
                 </div>
-                <a href="https://www.instagram.com/akgul.abdali/" target="_blank" class="card__text card__text--flex">
-                  <span>@akgul.abdali</span>
+                <a href="https://www.instagram.com/dinara_galiyeva/" target="_blank" class="card__text card__text--flex">
+                  <span>@dinara_galiyeva</span>
                   <svg width="24" height="24">
                     <use href="../assets/img/icons.svg#share"></use>
                   </svg>
@@ -150,11 +142,11 @@
 
             <div class="card__info">
               <div class="card__title">
-                Кунекей Нурлан
+                Санди Султан 
               </div>
 
               <div class="card__subtitle">
-                Финансовый практик с общим стажем 13 лет
+                Телерадиоведущая, журналист с 20-летним опытом работы на ТВ и радио.
               </div>
 
               <div class="card__section">
@@ -163,19 +155,7 @@
                 </div>
                 <div class="card__themes">
                   <div class="card__text">
-                    Что такое финансовая грамотность?
-                  </div>
-                  <div class="card__text">
-                    Оценка личного и семейного капитала
-                  </div>
-                  <div class="card__text">
-                    Как вести учет доходов и расходов?
-                  </div>
-                  <div class="card__text">
-                    Депозиты. Сколько их должно быть?
-                  </div>
-                  <div class="card__text">
-                    Бизнес. Что нужно сделать для начала?
+                    Женская энергия. Как произвести впечатление и говорить так, чтобы Вас услышали.
                   </div>
                 </div>
               </div>
@@ -184,8 +164,8 @@
                 <div class="card__bold">
                   Inst:
                 </div>
-                <a href="https://www.instagram.com/kunekei_finance/" target="_blank" class="card__text card__text--flex">
-                  <span>@kunekei_finance</span>
+                <a href="https://www.instagram.com/sandi_sultan/" target="_blank" class="card__text card__text--flex">
+                  <span>@sandi_sultan</span>
                   <svg width="24" height="24">
                     <use href="../assets/img/icons.svg#share"></use>
                   </svg>
@@ -213,7 +193,7 @@
                 </div>
                 <div class="card__themes">
                   <div class="card__text">
-                    Секреты изобилия
+                    Как повлиять на свою судьбу?
                   </div>
                 </div>
               </div>
@@ -237,11 +217,11 @@
 
             <div class="card__info">
               <div class="card__title">
-                Гульнар Амиргали
+                Кунекей Нурлан 
               </div>
 
               <div class="card__subtitle">
-                Основатель клуба инвесторов, инвестор-практик на фондовом рынке США
+                Финансист-практик с общим скажем 13 лет. 
               </div>
 
               <div class="card__section">
@@ -250,8 +230,13 @@
                 </div>
                 <div class="card__themes">
                   <div class="card__text">
-                    Трансформации: как изменить качество жизни. Мир инвестиций
-                    и больших денег.
+                    Финансовая грамотность 
+                  </div>
+                   <div class="card__text">
+                    Финансы фрилансера
+                  </div>
+                   <div class="card__text">
+                    Кредиты. За и против
                   </div>
                 </div>
               </div>
@@ -260,8 +245,8 @@
                 <div class="card__bold">
                   Inst:
                 </div>
-                <a href="https://www.instagram.com/gulnar_amirgaly/" target="_blank" class="card__text card__text--flex">
-                  <span>@gulnar_amirgaly</span>
+                <a href="https://www.instagram.com/kunekei_finance/" target="_blank" class="card__text card__text--flex">
+                  <span>@kunekei_finance</span>
                   <svg width="24" height="24">
                     <use href="../assets/img/icons.svg#share"></use>
                   </svg>
@@ -275,11 +260,11 @@
 
             <div class="card__info">
               <div class="card__title">
-                Зарина Шегенова
+               Акгуль Абдали 
               </div>
 
               <div class="card__subtitle">
-                Психолог, Автор Трансформационной игры «Поток Жизни», практик НЛП.
+                Психолог – психотерапевт. Магистр психологии. Семейный психолог. Является членом Американской Психологической Ассоциации (APA).
               </div>
 
               <div class="card__section">
@@ -288,10 +273,10 @@
                 </div>
                 <div class="card__themes">
                   <div class="card__text">
-                    Я могу больше. Раскрытие личностного потенциала
+                    Отношения. Кризисы и как их преодолеть
                   </div>
                   <div class="card__text">
-                    Женственность и сексуальность или как получать от жизни больше?
+                    Психосоматика наших болезней
                   </div>
                 </div>
               </div>
@@ -300,8 +285,8 @@
                 <div class="card__bold">
                   Inst:
                 </div>
-                <a href="https://www.instagram.com/zarina.shegenova/" target="_blank" class="card__text card__text--flex">
-                  <span>@zarina.shegenova</span>
+                <a href="https://www.instagram.com/akgul.abdali/" target="_blank" class="card__text card__text--flex">
+                  <span>@akgul.abdali</span>
                   <svg width="24" height="24">
                     <use href="../assets/img/icons.svg#share"></use>
                   </svg>
@@ -327,8 +312,8 @@
                   Тема:
                 </div>
                 <div class="card__themes">
-                  <div class="card__text">
-                    Сила чакр. Женская энергия
+                  <div class="card__text">        
+                      Родовые и кармические задачи
                   </div>
                 </div>
               </div>
@@ -352,20 +337,23 @@
 
             <div class="card__info">
               <div class="card__title">
-                Аида Нарбаева
+                Зарина Шегенова 
               </div>
 
               <div class="card__subtitle">
-                Психолог-дәрігер (психотерапевт)
+                Психолог, Автор Трансформационной игры «Поток Жизни», Практик НЛП
               </div>
 
               <div class="card__section">
                 <div class="card__bold card__bold--no-width">
-                  Тақырып:
+                  Темы:
                 </div>
                 <div class="card__themes">
                   <div class="card__text">
-                    Өз өзіңді бағала
+                    Предназначение. Путь к себе
+                  </div>
+                   <div class="card__text">
+                    Выход из невроза и тревожности. Жизнь с чистого листа
                   </div>
                 </div>
               </div>
