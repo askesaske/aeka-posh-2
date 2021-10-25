@@ -193,7 +193,7 @@
                 </div>
                 <div class="card__themes">
                   <div class="card__text">
-                    Как повлиять на свою судьбу?
+                    Медитация успеха. Йога достижения цели
                   </div>
                 </div>
               </div>
