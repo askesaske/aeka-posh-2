@@ -322,8 +322,8 @@
                 <div class="card__bold">
                   Inst:
                 </div>
-                <a href="https://www.instagram.com/aida_psychologist_kz/" target="_blank" class="card__text card__text--flex">
-                  <span>@aida_psychologist_kz</span>
+                <a href="https://www.instagram.com/zarina.shegenova/" target="_blank" class="card__text card__text--flex">
+                  <span>@zarina.shegenova</span>
                   <svg width="24" height="24">
                     <use href="../assets/img/icons.svg#share"></use>
                   </svg>
