@@ -1,6 +1,5 @@
 <template>
   <main class="main">
-
     <section class="main__section welcome-section">
       <div class="welcome-section__container">
 
@@ -19,7 +18,8 @@
             </h1>
 
             <p class="welcome-section__subtitle">
-              Стоимость: <span>5000 тенге</span>
+              Стоимость: <span style="text-decoration: line-through; font-weight: 100;">5000 тенге</span> <br>
+              <span style="margin-top:10px;">3000 тенге</span>
             </p>
 
             <div class="welcome-section__btn" v-scroll-to="{el:'#speakers', duration: 1500,}">
@@ -43,17 +43,24 @@
 
     <section class="main__section about-section">
       <div class="about-section__container">
+      <div style="display: flex; justify-content: flex-end;">
+        <div style="width: 50.5rem;" >
+          <p style="text-align: right;">
+            <span style="font-weight: 400; font-size: 20px">
+            <i>«Если бы такие проекты начались намного раньше, женщины всего мира получили бы возможность стать свободнее, полноценнее, и счастливее..» </i>
+            </span>
+            <br>
+            <br>
+            <span style="font-weight: 600; font-size: 20px; text-align: right; margin-top: 10px;"> Айым Алтынбекова </span>
+          </p>
+        </div>
+      </div>
+      <div style="margin-top: 40px;">
+      
         <p>
-          Я, <span>Айым Алтынбекова</span>, приглашаю Вас на мой интенсив, рассчитаный на тех женщин, 
-          которые хотят жить полноценной жизнью, для тех, кто хочет проявлять себя во всех жизненных аспектах. 
-          Родовые задачи, психологию, предназначение, отношения, питание, женские практики, и многое другое вам 
-          будут преподавать спикеры знающие своё направление на отлично. За <span>10 дней</span> вы получите не просто 
-          полноценные знания, но и научитесь применять их в своей жизни,  <span>меняя свою реальность.</span> 
-          Приглашаю начать новую жизнь, где вы всегда счастливы, любимы, имеете достаточно денег и самое 
-          главное находитесь в гармонии с самой собой. 
-          <br>
-          Вы почувствуете приток новых сил, приобретёте внутреннее равновесие, и баланс. Создайте свою счастливую реальность вместе с нами.
+         Я Айым Алтынбекова, и я приглашаю вас на свой интенсив! Вся программа интесива направлена на одну, но самую главную цель – получение сакральных знаний, которые изменят вашу реальность. Это настоящий тест- драйв в новое измерение. Я подготовила мощную программу, и включила в нее знания многих успешных и профессиональных людей. Тех людей, которым ты бы хотела задать вопросы, но так долго не решалась. Миссия интенсива - привести тебя к состоянию , в котором ты уверена в себе, счастлива , легка на подъём , именно из этого состояния складывается картинка того, чего ты действительно хочешь в жизни. И это еще не все. Интересно? Значит, трансформация уже началась. Мы ждем тебя!
         </p>
+      </div>
       </div>
     </section>
 
@@ -70,11 +77,11 @@
 
             <div class="card__info">
               <div class="card__title">
-                Динара Рафаель 
+               Альмира Турсын
               </div>
 
               <div class="card__subtitle">
-                Международный нумеролог обучившийся в Оксфорде
+                Актриса, сценарист и женский коуч-профориентатор
               </div>
 
               <div class="card__section">
@@ -82,7 +89,7 @@
                   Тема:
                 </div>
                 <div class="card__text">
-                  Как прокачать себя с помощью чисел : финансы, карьера, отношение.
+                  «Как найти своё призвание», «Как создать любимое дело», профориентация.
                 </div>
               </div>
 
@@ -90,8 +97,8 @@
                 <div class="card__bold">
                   Inst:
                 </div>
-                <a href="https://www.instagram.com/dinara.raphael/" target="_blank" class="card__text card__text--flex">
-                  <span>@dinara.raphael</span>
+                <a href="https://www.instagram.com/almiratursyn/" target="_blank" class="card__text card__text--flex">
+                  <span>@almiratursyn</span>
                   <svg width="24" height="24">
                     <use href="../assets/img/icons.svg#share"></use>
                   </svg>
@@ -105,11 +112,11 @@
 
             <div class="card__info">
               <div class="card__title">
-                Галиева Динара Бауыржановна
+               Айнур Кубек 
               </div>
 
               <div class="card__subtitle">
-                Врач-педиатр, нутрициолог, натуропрактик, сертифицированный health коуч по интегративному питанию, магистр медицины, PhD
+                Парфюмер, аромапсихолог
               </div>
 
               <div class="card__section">
@@ -118,7 +125,7 @@
                 </div>
                 <div class="card__themes">
                   <div class="card__text">
-                    Энергия и Питание. Как избавиться от хронической усталости с помощью питания
+                    Аромапсихология: влияние ароматов на психо-эмоциональное состояние. «Ваши предпочтения в ароматах могут многое о вас рассказать..»
                   </div>
                 </div>
               </div>
@@ -127,8 +134,8 @@
                 <div class="card__bold">
                   Inst:
                 </div>
-                <a href="https://www.instagram.com/dinara_galiyeva/" target="_blank" class="card__text card__text--flex">
-                  <span>@dinara_galiyeva</span>
+                <a href="https://www.instagram.com/ainur.qubek/" target="_blank" class="card__text card__text--flex">
+                  <span>@ainur.qubek </span>
                   <svg width="24" height="24">
                     <use href="../assets/img/icons.svg#share"></use>
                   </svg>
@@ -138,15 +145,15 @@
           </div>
 
           <div class="speaker-section__card card card--3">
-            <img src="../assets/img/photo-3.png" alt="" class="card__img">
+            <img src="../assets/img/photo-5.png" alt="" class="card__img">
 
             <div class="card__info">
               <div class="card__title">
-                Санди Султан 
+                Кунекей Нурлан 
               </div>
 
               <div class="card__subtitle">
-                Телерадиоведущая, журналист с 20-летним опытом работы на ТВ и радио.
+                Финансист-практик с общим скажем 13 лет. 
               </div>
 
               <div class="card__section">
@@ -155,7 +162,7 @@
                 </div>
                 <div class="card__themes">
                   <div class="card__text">
-                    Женская энергия. Как произвести впечатление и говорить так, чтобы Вас услышали.
+                    Финансы 2022 года, что нас ждёт?
                   </div>
                 </div>
               </div>
@@ -164,8 +171,8 @@
                 <div class="card__bold">
                   Inst:
                 </div>
-                <a href="https://www.instagram.com/sandi_sultan/" target="_blank" class="card__text card__text--flex">
-                  <span>@sandi_sultan</span>
+                <a href="https://www.instagram.com/kunekei_finance/" target="_blank" class="card__text card__text--flex">
+                  <span>@kunekei_finance</span>
                   <svg width="24" height="24">
                     <use href="../assets/img/icons.svg#share"></use>
                   </svg>
@@ -173,6 +180,8 @@
               </div>
             </div>
           </div>
+
+      
 
           <div class="speaker-section__card card card--4">
             <img src="../assets/img/photo-4.png" alt="" class="card__img">
@@ -193,7 +202,7 @@
                 </div>
                 <div class="card__themes">
                   <div class="card__text">
-                    Медитация успеха. Йога достижения цели
+                    Любовь и привязанность
                   </div>
                 </div>
               </div>
@@ -204,89 +213,6 @@
                 </div>
                 <a href="https://www.instagram.com/akram_astrolog/" target="_blank" class="card__text card__text--flex">
                   <span>@akram_astrolog</span>
-                  <svg width="24" height="24">
-                    <use href="../assets/img/icons.svg#share"></use>
-                  </svg>
-                </a>
-              </div>
-            </div>
-          </div>
-
-          <div class="speaker-section__card card card--5">
-            <img src="../assets/img/photo-5.png" alt="" class="card__img">
-
-            <div class="card__info">
-              <div class="card__title">
-                Кунекей Нурлан 
-              </div>
-
-              <div class="card__subtitle">
-                Финансист-практик с общим скажем 13 лет. 
-              </div>
-
-              <div class="card__section">
-                <div class="card__bold">
-                  Тема:
-                </div>
-                <div class="card__themes">
-                  <div class="card__text">
-                    Финансовая грамотность 
-                  </div>
-                   <div class="card__text">
-                    Финансы фрилансера
-                  </div>
-                   <div class="card__text">
-                    Кредиты. За и против
-                  </div>
-                </div>
-              </div>
-
-              <div class="card__section">
-                <div class="card__bold">
-                  Inst:
-                </div>
-                <a href="https://www.instagram.com/kunekei_finance/" target="_blank" class="card__text card__text--flex">
-                  <span>@kunekei_finance</span>
-                  <svg width="24" height="24">
-                    <use href="../assets/img/icons.svg#share"></use>
-                  </svg>
-                </a>
-              </div>
-            </div>
-          </div>
-
-          <div class="speaker-section__card card card--4">
-            <img src="../assets/img/photo-6.png" alt="" class="card__img">
-
-            <div class="card__info">
-              <div class="card__title">
-               Акгуль Абдали 
-              </div>
-
-              <div class="card__subtitle">
-                Психолог – психотерапевт. Магистр психологии. Семейный психолог. Является членом Американской Психологической Ассоциации (APA).
-              </div>
-
-              <div class="card__section">
-                <div class="card__bold">
-                  Тема:
-                </div>
-                <div class="card__themes">
-                  <div class="card__text">
-                    Отношения. Кризисы и как их преодолеть
-                  </div>
-                  <div class="card__text">
-                    Психосоматика наших болезней
-                  </div>
-                </div>
-              </div>
-
-              <div class="card__section">
-                <div class="card__bold">
-                  Inst:
-                </div>
-                <a href="https://www.instagram.com/akgul.abdali/" target="_blank" class="card__text card__text--flex">
-                  <span>@akgul.abdali</span>
                   <svg width="24" height="24">
                     <use href="../assets/img/icons.svg#share"></use>
                   </svg>
@@ -313,7 +239,7 @@
                 </div>
                 <div class="card__themes">
                   <div class="card__text">        
-                      Родовые и кармические задачи
+                      Обмен энергией между мужчиной и женщиной
                   </div>
                 </div>
               </div>
@@ -324,6 +250,43 @@
                 </div>
                 <a href="https://www.instagram.com/nurgul.shaudan/" target="_blank" class="card__text card__text--flex">
                   <span>@nurgul.shaudan</span>
+                  <svg width="24" height="24">
+                    <use href="../assets/img/icons.svg#share"></use>
+                  </svg>
+                </a>
+              </div>
+            </div>
+          </div>
+
+           <div class="speaker-section__card card card--4">
+            <img src="../assets/img/photo-6.png" alt="" class="card__img">
+
+            <div class="card__info">
+              <div class="card__title">
+               Акгуль Абдали 
+              </div>
+
+              <div class="card__subtitle">
+                Психолог – психотерапевт. Магистр психологии. Семейный психолог. Является членом Американской Психологической Ассоциации (APA).
+              </div>
+
+              <div class="card__section">
+                <div class="card__bold">
+                  Тема:
+                </div>
+                <div class="card__themes">
+                  <div class="card__text">
+                    Как воспитать уверенного в себе ребёнка?
+                  </div>
+                </div>
+              </div>
+
+              <div class="card__section">
+                <div class="card__bold">
+                  Inst:
+                </div>
+                <a href="https://www.instagram.com/akgul.abdali/" target="_blank" class="card__text card__text--flex">
+                  <span>@akgul.abdali</span>
                   <svg width="24" height="24">
                     <use href="../assets/img/icons.svg#share"></use>
                   </svg>
@@ -350,10 +313,7 @@
                 </div>
                 <div class="card__themes">
                   <div class="card__text">
-                    Предназначение. Путь к себе
-                  </div>
-                   <div class="card__text">
-                    Выход из невроза и тревожности. Жизнь с чистого листа
+                   Про воспитание, ПОКА ЧТО ТАК, будем менять
                   </div>
                 </div>
               </div>

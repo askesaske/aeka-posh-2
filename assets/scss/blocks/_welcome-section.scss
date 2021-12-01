@@ -24,7 +24,7 @@
   }
 
   &__subtitle {
-    @include text-style(3.2rem, 400, $accent-color);
+    @include text-style(3.2rem, 400, $white-color);
     line-height: 36px;
     margin-bottom: 72px;
 

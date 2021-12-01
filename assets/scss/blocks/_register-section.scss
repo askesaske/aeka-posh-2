@@ -20,7 +20,7 @@
   }
 
   &__subtitle {
-    @include text-style(2.4rem, 400, $d-color);
+    @include text-style(2.4rem, 400, $white-color);
     line-height: 27px;
     margin-bottom: 40px;
   }
